@@ -1,2 +1,2 @@
 # Random-Number-Generator
-Generates a random number based a n lenght
+Generates a random number based on n lenght
