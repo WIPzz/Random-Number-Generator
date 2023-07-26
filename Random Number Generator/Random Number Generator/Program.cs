@@ -69,7 +69,7 @@ namespace randomNumberGenerator
             
             for (int i = 1; i <= lenNum; i++)
             {
-                int rndNum = rnd.Next(0, 9);
+                int rndNum = rnd.Next(0, 10);
                 sb.Append(rndNum);
                // Console.Write(rndNum);
             }
