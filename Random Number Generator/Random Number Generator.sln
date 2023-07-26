@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random Number Generator", "Random Number Generator\Random Number Generator.csproj", "{412A6EE6-48C7-408A-9EA3-82F7F922C70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412A6EE6-48C7-408A-9EA3-82F7F922C70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412A6EE6-48C7-408A-9EA3-82F7F922C70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412A6EE6-48C7-408A-9EA3-82F7F922C70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412A6EE6-48C7-408A-9EA3-82F7F922C70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87328554-50F9-4F0E-898B-0F9FD3AEAEAD}
+	EndGlobalSection
+EndGlobal
